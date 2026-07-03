@@ -1,0 +1,9 @@
+<!-- This is a single-line comment in HTML -->
+
+<p>This text will be visible on the website.</p>
+
+<!-- 
+  This is a multi-line comment.
+  None of this will be displayed by the browser.
+  You can use it to explain your code or temporarily hide elements.
+-->
